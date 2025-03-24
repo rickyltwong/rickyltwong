@@ -1,22 +1,27 @@
 # 👋 Hello, I'm Ricky LT Wong! ![](https://komarev.com/ghpvc/?username=rickyltwong)
 
 ## 📖 About Me
-- Enthusiastic learner with a passion for technology, problem-solving, and creative collaboration
-- Always looking to explore new programming paradigms and contribute to open-source projects
+- Data Professional coming from a medical imaging background
+- Enthusiastic learner with a passion for technology, problem-solving, and creative collaboration 
 
 ---
 
 ## 🌱 Areas of Interest
 - **Medical Imaging**
-- 
+- **Machine Learning**
+- **Data Engineering**
+- **Big Data**
 
 ---
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-efd81d?style=for-the-badge&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ---
 
