@@ -42,14 +42,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickyltwong&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyltwong&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickyltwong&theme=default" alt="Profile Details Card" />
+</p>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rickyltwong&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rickyltwong&theme=default" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rickyltwong&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
