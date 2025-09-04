@@ -54,7 +54,7 @@
 ---
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=rickyltwong&hide=B&hide_contributor_rank=false&limit=5&theme=dark&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=rickyltwong&hide_contributor_rank=false&limit=5&theme=dark&hide_border=false)
 
 ---
 
