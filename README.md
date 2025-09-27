@@ -3,7 +3,7 @@
 ## 📖 About Me
 - Data Professional coming from a medical imaging background
 - Enthusiastic learner with a passion for technology, problem-solving, and creative collaboration
-- Part-time (or hobbyist?) web developer focusing on **Next.js** and **React** — still learning, but always building 💻✨
+- Part-time (or hobbyist?) **Next.js** and **React** web developer — still learning, but always building 💻✨
 
 ---
 
